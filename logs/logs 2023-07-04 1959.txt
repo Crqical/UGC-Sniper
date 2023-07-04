@@ -1,0 +1,84 @@
+2023-07-04 19:59:06,289:INFO-main  Started
+2023-07-04 19:59:07,506:INFO-<string>  [COLOR_AQUAMARINE_1A]Checking for potential updates...
+2023-07-04 19:59:07,665:INFO-<string>  [COLOR_AQUAMARINE_1A]No updates found.
+2023-07-04 19:59:10,808:INFO-<string>  [COLOR_GREEN]Successfully started the web interface.
+2023-07-04 19:59:10,809:INFO-<string>  [COLOR_GREEN]Hosting web interface on: 172.31.196.9/127.0.0.1
+2023-07-04 19:59:10,846:INFO-main  Started getting token.
+2023-07-04 19:59:10,849:INFO-logging  Running on http://0.0.0.0:80 (CTRL + C to quit)
+2023-07-04 19:59:11,132:INFO-main  Got token of wgFVzdf0s4O2
+2023-07-04 19:59:11,960:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:13,036:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:14,113:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:15,186:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:16,272:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:17,352:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:18,428:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:19,507:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:20,584:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:21,676:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:22,756:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:23,831:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:24,903:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:25,982:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:27,058:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:28,130:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:29,206:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:30,284:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:31,361:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:32,442:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:33,529:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:34,607:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:35,684:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:36,765:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:37,843:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:38,924:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:39,998:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:41,078:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:41,245:INFO-main  Got token of wgFVzdf0s4O2
+2023-07-04 19:59:42,149:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:43,230:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:44,308:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:45,390:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:46,548:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:47,626:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:48,703:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:49,784:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:50,865:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:51,946:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:53,019:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:54,101:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:55,177:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:56,255:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:57,337:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:58,415:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 19:59:59,490:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:00,578:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:01,652:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:02,728:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:03,806:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:04,889:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:05,971:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:07,054:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:08,146:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:09,239:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:10,315:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:11,363:INFO-main  Got token of wgFVzdf0s4O2
+2023-07-04 20:00:12,141:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:13,236:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:14,324:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:15,419:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:16,499:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:17,576:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:18,669:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:19,749:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:20,824:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:21,902:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:22,980:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:24,068:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:25,143:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:26,275:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:27,353:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:28,432:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:29,513:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:30,592:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}
+2023-07-04 20:00:31,669:INFO-<string>  [COLOR_RED]Ratelimit continuing in 1 seconds. - {"errors":[{"code":0,"message":"Too many requests"}]}

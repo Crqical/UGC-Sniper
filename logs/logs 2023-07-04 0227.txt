@@ -1,0 +1,26 @@
+2023-07-04 02:27:54,151:INFO-main  Started
+2023-07-04 02:28:41,535:INFO-<string>  [COLOR_AQUAMARINE_1A]Checking for potential updates...
+2023-07-04 02:28:41,745:INFO-<string>  [COLOR_AQUAMARINE_1A]No updates found.
+2023-07-04 02:28:53,970:INFO-<string>  [COLOR_GREEN]Successfully started the web interface.
+2023-07-04 02:28:53,970:INFO-<string>  [COLOR_GREEN]Hosting web interface on: 172.31.196.75/127.0.0.1
+2023-07-04 02:28:54,004:INFO-main  Started getting token.
+2023-07-04 02:28:54,009:INFO-logging  Running on http://0.0.0.0:80 (CTRL + C to quit)
+2023-07-04 02:28:54,309:INFO-main  Got token of QEu74KKqZFX0
+2023-07-04 02:28:54,531:INFO-<string>  [COLOR_CYAN]Buying the Silver Star Crown (13892404910)[COLOR_WHITE]
+2023-07-04 02:28:54,531:INFO-main  Buying item, got: {'id': 13892404910, 'itemType': 'Asset', 'assetType': 8, 'name': 'Silver Star Crown', 'description': 'Show you royalty with this Crown!', 'genres': ['All'], 'itemRestrictions': ['Collectible'], 'creatorHasVerifiedBadge': False, 'creatorType': 'User', 'creatorTargetId': 82809082, 'creatorName': 'kingerman89', 'price': 0, 'lowestResalePrice': 0, 'priceStatus': 'Off Sale', 'unitsAvailableForConsumption': 0, 'favoriteCount': 2810, 'offSaleDeadline': None, 'collectibleItemId': '0245c69c-e7de-4b0d-9628-25bc095e833d', 'totalQuantity': 1800, 'saleLocationType': 'ShopAndAllExperiences', 'hasResellers': False, 'quantityLimitPerUser': 1}
+2023-07-04 02:28:54,531:INFO-<string>  Getting needed information...
+2023-07-04 02:28:54,658:INFO-<string>  Sent request for information, scraping needed information
+2023-07-04 02:28:54,658:INFO-<string>  Got needed information, setting up data
+2023-07-04 02:28:54,658:INFO-<string>  Set up data.
+2023-07-04 02:28:54,760:INFO-main  Received: {"purchaseResult":"Flooded","purchased":false,"pending":false,"errorMessage":"Flooded: purchase requests exceeds limit"} - Sent : {'collectibleItemId': '0245c69c-e7de-4b0d-9628-25bc095e833d', 'expectedCurrency': 1, 'expectedPrice': 0, 'expectedPurchaserId': 4392244524, 'expectedPurchaserType': 'User', 'expectedSellerId': 82809082, 'expectedSellerType': 'User', 'idempotencyKey': 'c82e1bb6-4af9-4dc5-a25e-bf41adc073c9', 'collectibleProductId': '38cf3658-1b1f-4df7-b448-76744ce52979'}
+2023-07-04 02:28:54,760:INFO-<string>  [COLOR_RED]Buy ratelimit caught!
+2023-07-04 02:28:54,761:INFO-main  Received: {"purchaseResult":"Flooded","purchased":false,"pending":false,"errorMessage":"Flooded: purchase requests exceeds limit"} - Sent : {'collectibleItemId': '0245c69c-e7de-4b0d-9628-25bc095e833d', 'expectedCurrency': 1, 'expectedPrice': 0, 'expectedPurchaserId': 4392244524, 'expectedPurchaserType': 'User', 'expectedSellerId': 82809082, 'expectedSellerType': 'User', 'idempotencyKey': '32a24616-c999-4a43-b936-92ffc031f3d2', 'collectibleProductId': '38cf3658-1b1f-4df7-b448-76744ce52979'}
+2023-07-04 02:28:54,761:INFO-<string>  [COLOR_RED]Buy ratelimit caught!
+2023-07-04 02:28:54,762:INFO-main  Received: {"purchaseResult":"Flooded","purchased":false,"pending":false,"errorMessage":"Flooded: purchase requests exceeds limit"} - Sent : {'collectibleItemId': '0245c69c-e7de-4b0d-9628-25bc095e833d', 'expectedCurrency': 1, 'expectedPrice': 0, 'expectedPurchaserId': 4392244524, 'expectedPurchaserType': 'User', 'expectedSellerId': 82809082, 'expectedSellerType': 'User', 'idempotencyKey': 'eb98b60d-c6df-46f9-bee0-749c0627164c', 'collectibleProductId': '38cf3658-1b1f-4df7-b448-76744ce52979'}
+2023-07-04 02:28:54,763:INFO-<string>  [COLOR_RED]Buy ratelimit caught!
+2023-07-04 02:28:54,804:INFO-main  Received: {"purchaseResult":"Purchase transaction is failed.","purchased":false,"pending":false,"errorMessage":"QuantityExhausted"} - Sent : {'collectibleItemId': '0245c69c-e7de-4b0d-9628-25bc095e833d', 'expectedCurrency': 1, 'expectedPrice': 0, 'expectedPurchaserId': 4392244524, 'expectedPurchaserType': 'User', 'expectedSellerId': 82809082, 'expectedSellerType': 'User', 'idempotencyKey': 'd7ff1a0f-9e41-4762-876f-ee8a5c34f680', 'collectibleProductId': '38cf3658-1b1f-4df7-b448-76744ce52979'}
+2023-07-04 02:28:54,804:INFO-<string>  [COLOR_RED]All items sold out.
+2023-07-04 02:28:54,805:INFO-<string>  [COLOR_RED]Got into a ratelimit! Continuing in 1.0 second..
+2023-07-04 02:28:55,805:INFO-main  Bought. Before: 0, After: 0, Total: 0
+2023-07-04 02:28:55,874:INFO-<string>  All items sold out. Purchased 0 limiteds
+2023-07-04 02:29:24,439:INFO-main  Got token of QEu74KKqZFX0

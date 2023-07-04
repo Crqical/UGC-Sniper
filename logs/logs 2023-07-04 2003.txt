@@ -1,0 +1,74 @@
+2023-07-04 20:03:21,884:INFO-main  Started
+2023-07-04 20:03:22,979:INFO-<string>  [COLOR_AQUAMARINE_1A]Checking for potential updates...
+2023-07-04 20:03:23,062:INFO-<string>  [COLOR_AQUAMARINE_1A]No updates found.
+2023-07-04 20:03:29,779:INFO-<string>  [COLOR_GREEN]Successfully started the web interface.
+2023-07-04 20:03:29,780:INFO-<string>  [COLOR_GREEN]Hosting web interface on: 172.31.196.52/127.0.0.1
+2023-07-04 20:03:29,846:INFO-main  Started getting token.
+2023-07-04 20:03:29,852:INFO-logging  Running on http://0.0.0.0:80 (CTRL + C to quit)
+2023-07-04 20:03:30,010:INFO-<string>  [COLOR_RED]Invalid cookie parsed.
+2023-07-04 20:03:30,129:ERROR-base_events  Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<UGCSniper.get_token() done, defined at main.py:771> exception=SystemExit(1)>
+Traceback (most recent call last):
+  File "main.py", line 779, in get_token
+    self.cookies[idx][2] = (await (await s.get("https://users.roblox.com/v1/users/authenticated",
+KeyError: 'id'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 1233, in <module>
+    sniper.start()
+  File "main.py", line 720, in start
+    asyncio.run(self.main())
+  File "/nix/store/hd4cc9rh83j291r5539hkf6qd8lgiikb-python3-3.10.8/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/hd4cc9rh83j291r5539hkf6qd8lgiikb-python3-3.10.8/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/hd4cc9rh83j291r5539hkf6qd8lgiikb-python3-3.10.8/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/hd4cc9rh83j291r5539hkf6qd8lgiikb-python3-3.10.8/lib/python3.10/asyncio/base_events.py", line 1899, in _run_once
+    handle._run()
+  File "/nix/store/hd4cc9rh83j291r5539hkf6qd8lgiikb-python3-3.10.8/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "main.py", line 784, in get_token
+    exit(1)
+  File "/nix/store/hd4cc9rh83j291r5539hkf6qd8lgiikb-python3-3.10.8/lib/python3.10/_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: 1
+2023-07-04 20:03:36,570:INFO-main  Started
+2023-07-04 20:03:37,660:INFO-<string>  [COLOR_AQUAMARINE_1A]Checking for potential updates...
+2023-07-04 20:03:37,801:INFO-<string>  [COLOR_AQUAMARINE_1A]No updates found.
+2023-07-04 20:04:05,989:INFO-<string>  [COLOR_GREEN]Successfully started the web interface.
+2023-07-04 20:04:05,989:INFO-<string>  [COLOR_GREEN]Hosting web interface on: 172.31.196.52/127.0.0.1
+2023-07-04 20:04:06,033:INFO-main  Started getting token.
+2023-07-04 20:04:06,068:INFO-logging  Running on http://0.0.0.0:80 (CTRL + C to quit)
+2023-07-04 20:04:06,224:INFO-<string>  [COLOR_RED]Invalid cookie parsed.
+2023-07-04 20:04:06,298:ERROR-base_events  Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<UGCSniper.get_token() done, defined at main.py:771> exception=SystemExit(1)>
+Traceback (most recent call last):
+  File "main.py", line 779, in get_token
+    self.cookies[idx][2] = (await (await s.get("https://users.roblox.com/v1/users/authenticated",
+KeyError: 'id'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "main.py", line 1233, in <module>
+    sniper.start()
+  File "main.py", line 720, in start
+    asyncio.run(self.main())
+  File "/nix/store/hd4cc9rh83j291r5539hkf6qd8lgiikb-python3-3.10.8/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/nix/store/hd4cc9rh83j291r5539hkf6qd8lgiikb-python3-3.10.8/lib/python3.10/asyncio/base_events.py", line 636, in run_until_complete
+    self.run_forever()
+  File "/nix/store/hd4cc9rh83j291r5539hkf6qd8lgiikb-python3-3.10.8/lib/python3.10/asyncio/base_events.py", line 603, in run_forever
+    self._run_once()
+  File "/nix/store/hd4cc9rh83j291r5539hkf6qd8lgiikb-python3-3.10.8/lib/python3.10/asyncio/base_events.py", line 1899, in _run_once
+    handle._run()
+  File "/nix/store/hd4cc9rh83j291r5539hkf6qd8lgiikb-python3-3.10.8/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "main.py", line 784, in get_token
+    exit(1)
+  File "/nix/store/hd4cc9rh83j291r5539hkf6qd8lgiikb-python3-3.10.8/lib/python3.10/_sitebuiltins.py", line 26, in __call__
+    raise SystemExit(code)
+SystemExit: 1

@@ -1,0 +1,28 @@
+2023-07-04 19:01:09,480:INFO-main  Started
+2023-07-04 19:01:10,656:INFO-<string>  [COLOR_AQUAMARINE_1A]Checking for potential updates...
+2023-07-04 19:01:10,722:INFO-<string>  [COLOR_AQUAMARINE_1A]No updates found.
+2023-07-04 19:01:22,911:INFO-main  Started
+2023-07-04 19:01:24,095:INFO-<string>  [COLOR_AQUAMARINE_1A]Checking for potential updates...
+2023-07-04 19:01:24,187:INFO-<string>  [COLOR_AQUAMARINE_1A]No updates found.
+2023-07-04 19:01:25,200:INFO-<string>  [COLOR_GREEN]Successfully started the web interface.
+2023-07-04 19:01:25,202:INFO-<string>  [COLOR_GREEN]Hosting web interface on: 172.31.196.9/127.0.0.1
+2023-07-04 19:01:25,337:INFO-main  Started getting token.
+2023-07-04 19:01:25,363:INFO-logging  Running on http://0.0.0.0:80 (CTRL + C to quit)
+2023-07-04 19:01:25,694:INFO-main  Got token of hvwlD7S0essb
+2023-07-04 19:01:26,004:INFO-<string>  [COLOR_CYAN]Buying the The 4th Letter of July (13955407745)[COLOR_WHITE]
+2023-07-04 19:01:26,004:INFO-main  Buying item, got: {'id': 13955407745, 'itemType': 'Asset', 'assetType': 44, 'name': 'The 4th Letter of July', 'description': "Dude's made 2 Limiteds and has already made the worst ones.", 'genres': ['All'], 'itemRestrictions': ['Collectible'], 'creatorHasVerifiedBadge': False, 'creatorType': 'User', 'creatorTargetId': 43815471, 'creatorName': 'ILuvVideoGamez', 'price': 0, 'lowestResalePrice': 0, 'priceStatus': 'Off Sale', 'unitsAvailableForConsumption': 0, 'favoriteCount': 500, 'offSaleDeadline': None, 'collectibleItemId': '64dd95d2-557d-4795-b88b-43bea2ab6f1e', 'totalQuantity': 400, 'saleLocationType': 'ShopAndAllExperiences', 'hasResellers': False, 'quantityLimitPerUser': 1}
+2023-07-04 19:01:26,005:INFO-<string>  Getting needed information...
+2023-07-04 19:01:26,135:INFO-<string>  Sent request for information, scraping needed information
+2023-07-04 19:01:26,135:INFO-<string>  Got needed information, setting up data
+2023-07-04 19:01:26,136:INFO-<string>  Set up data.
+2023-07-04 19:01:26,258:INFO-main  Received: {"purchaseResult":"Flooded","purchased":false,"pending":false,"errorMessage":"Flooded: purchase requests exceeds limit"} - Sent : {'collectibleItemId': '64dd95d2-557d-4795-b88b-43bea2ab6f1e', 'expectedCurrency': 1, 'expectedPrice': 0, 'expectedPurchaserId': 407760973, 'expectedPurchaserType': 'User', 'expectedSellerId': 43815471, 'expectedSellerType': 'User', 'idempotencyKey': '3d179537-dbde-4205-9014-8f4e1bcec0d2', 'collectibleProductId': '307647c1-6f84-4812-89b9-e3c6839817a2'}
+2023-07-04 19:01:26,258:INFO-<string>  [COLOR_RED]Buy ratelimit caught!
+2023-07-04 19:01:26,259:INFO-main  Received: {"purchaseResult":"Flooded","purchased":false,"pending":false,"errorMessage":"Flooded: purchase requests exceeds limit"} - Sent : {'collectibleItemId': '64dd95d2-557d-4795-b88b-43bea2ab6f1e', 'expectedCurrency': 1, 'expectedPrice': 0, 'expectedPurchaserId': 407760973, 'expectedPurchaserType': 'User', 'expectedSellerId': 43815471, 'expectedSellerType': 'User', 'idempotencyKey': '356c849e-64f2-4e23-938b-99c3aaa15d96', 'collectibleProductId': '307647c1-6f84-4812-89b9-e3c6839817a2'}
+2023-07-04 19:01:26,259:INFO-<string>  [COLOR_RED]Buy ratelimit caught!
+2023-07-04 19:01:26,263:INFO-main  Received: {"purchaseResult":"Flooded","purchased":false,"pending":false,"errorMessage":"Flooded: purchase requests exceeds limit"} - Sent : {'collectibleItemId': '64dd95d2-557d-4795-b88b-43bea2ab6f1e', 'expectedCurrency': 1, 'expectedPrice': 0, 'expectedPurchaserId': 407760973, 'expectedPurchaserType': 'User', 'expectedSellerId': 43815471, 'expectedSellerType': 'User', 'idempotencyKey': '9e5bdd6d-9e6e-4f7a-a24f-8c88f2af2b31', 'collectibleProductId': '307647c1-6f84-4812-89b9-e3c6839817a2'}
+2023-07-04 19:01:26,264:INFO-<string>  [COLOR_RED]Buy ratelimit caught!
+2023-07-04 19:01:26,275:INFO-main  Received: {"purchaseResult":"Purchase transaction is failed.","purchased":false,"pending":false,"errorMessage":"QuantityExhausted"} - Sent : {'collectibleItemId': '64dd95d2-557d-4795-b88b-43bea2ab6f1e', 'expectedCurrency': 1, 'expectedPrice': 0, 'expectedPurchaserId': 407760973, 'expectedPurchaserType': 'User', 'expectedSellerId': 43815471, 'expectedSellerType': 'User', 'idempotencyKey': 'a1205b26-c2eb-4deb-afb3-442a28615ede', 'collectibleProductId': '307647c1-6f84-4812-89b9-e3c6839817a2'}
+2023-07-04 19:01:26,276:INFO-<string>  [COLOR_RED]All items sold out.
+2023-07-04 19:01:26,276:INFO-<string>  [COLOR_RED]Got into a ratelimit! Continuing in 1.0 second..
+2023-07-04 19:01:27,277:INFO-main  Bought. Before: 0, After: 0, Total: 0
+2023-07-04 19:01:27,369:INFO-<string>  All items sold out. Purchased 0 limiteds
